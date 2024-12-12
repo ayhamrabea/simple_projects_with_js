@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Halos around the Sun or Moon are caused by…" ,
+        "answers": [
+            { "text": "Cirrus clouds" , "correct": true},
+            { "text": "Pollution" , "correct": false},
+            { "text": "Natural gases" , "correct": false},
+            { "text": "Water vapour" , "correct": false}
+        ]
+    },
+    {
+        "question": "What is the longest river in Africa?" ,
+        "answers": [
+            { "text": "The Ganges" , "correct": false},
+            { "text": "The Nile" , "correct": true},
+            { "text": "The Congo" , "correct": false},
+            { "text": "The Zambezi" , "correct": false}
+        ]
+    },
+    {
+        "question": "What is the highest mountain in Kenya?" ,
+        "answers": [
+            { "text": "Mt Kilimanjaro" , "correct": false},
+            { "text": "Mt Meru" , "correct": false},
+            { "text": "Table Mountain" , "correct": false},
+            { "text": "Mt Kenya" , "correct": true}
+        ]
+    }
+]
